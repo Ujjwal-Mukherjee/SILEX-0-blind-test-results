@@ -1,0 +1,11 @@
+Public copy of the study's working tools.
+
+These are the scripts as they were used: they build the packets and judge sheets, file and parse the replies, check the judges' replies,
+score Test F and make the tables. They are published so that every step can be read. Most of them cannot be run from this package alone,
+because they read the frozen kit (items, answer keys, packets), the models' replies or the judge sheets, and these are withheld (see ../README.md).
+
+Paths such as /home/claude/silex_results and /home/claude/silex_blind_test are the runner's work folders and serve as defaults; pass your own
+with the options each tool describes. The tools run with python3 -I. README.txt, README_E.txt and README_RT.txt are the working notes, written
+during the study; they speak of RES (the results folder) and KIT (the frozen kit).
+
+Files are copies of the working files as they stood on the evening of 14 November 2026. Nothing was edited for publication. The file hashes are in ../SHA256SUMS.

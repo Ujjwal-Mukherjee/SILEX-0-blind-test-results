@@ -1,0 +1,16 @@
+model,run,items,valid,checker_ok,joined_ok
+claude,1,40,40,40,40
+claude,2,40,39,39,39
+claude,3,40,40,40,40
+chatgpt,1,40,17,17,17
+chatgpt,2,40,19,19,19
+chatgpt,3,40,28,28,28
+chatgpt,4,40,40,40,40
+chatgpt,5,40,40,40,40
+chatgpt,6,40,40,40,40
+grok,1,40,34,34,34
+grok,2,40,36,36,36
+grok,3,40,34,34,34
+gemini,1,40,38,38,38
+gemini,2,40,40,40,40
+gemini,3,40,35,35,35

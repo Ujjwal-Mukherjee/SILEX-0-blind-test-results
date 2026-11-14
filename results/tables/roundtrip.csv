@@ -1,0 +1,13 @@
+writer,reader_own_family,items_kept,items,c_facts,cred_silex,silex,cred_english,english,diff,ci_lo,ci_hi,false_per_20_silex,false_per_20_english
+claude,1,all items,40,127,125,0.984252,126,0.992126,-0.007874,-0.035714,0.017094,0.5,0.5
+claude,1,items valid in the SILEX source run,40,127,125,0.984252,126,0.992126,-0.007874,-0.035714,0.017094,,
+claude,1,items whose English has message lines only,40,127,125,0.984252,126,0.992126,-0.007874,-0.035714,0.017094,,
+chatgpt,0,all items,40,127,126,0.992126,125,0.984252,0.007874,-0.016397,0.036367,0.0,0.0
+chatgpt,0,items valid in the SILEX source run,40,127,126,0.992126,125,0.984252,0.007874,-0.016397,0.036367,,
+chatgpt,0,items whose English has message lines only,40,127,126,0.992126,125,0.984252,0.007874,-0.016397,0.036367,,
+grok,0,all items,40,127,119,0.937008,126,0.992126,-0.055118,-0.109489,0.0,0.5,0.5
+grok,0,items valid in the SILEX source run,34,101,101,1.0,100,0.990099,0.009901,0.0,0.031915,,
+grok,0,items whose English has message lines only,38,119,111,0.932773,118,0.991597,-0.058824,-0.115945,0.0,,
+gemini,0,all items,40,127,123,0.968504,127,1.0,-0.031496,-0.062937,-0.007632,0.0,0.0
+gemini,0,items valid in the SILEX source run,38,118,115,0.974576,118,1.0,-0.025424,-0.055556,0.0,,
+gemini,0,items whose English has message lines only,40,127,123,0.968504,127,1.0,-0.031496,-0.062937,-0.007632,,

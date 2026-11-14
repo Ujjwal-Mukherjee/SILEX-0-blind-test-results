@@ -1,0 +1,5 @@
+model,run,items_with_text,median_chars,median_words,median_ratio_to_gold,silex_source_run,items_in_both,median_silex_per_english,none_items,missing_items
+claude,1,40,102.5,24.0,1.461447,1,40,0.694947,0,0
+chatgpt,1,40,105.0,22.5,1.571827,4,40,0.634281,0,0
+grok,1,40,131.0,28.5,1.644444,1,40,0.634921,0,0
+gemini,1,40,125.0,27.5,1.728371,1,40,0.592431,0,0

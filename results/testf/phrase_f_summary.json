@@ -1,0 +1,150 @@
+{
+ "program_sha256_16": "7fff8c2c82adef89",
+ "partial": false,
+ "per_run": {
+  "FN-chatgpt-1": {
+   "faulty": 30,
+   "named": 24,
+   "judged": 24,
+   "unjudged": 0,
+   "credited": 20,
+   "found": 22,
+   "found_judged": 22,
+   "found_credited": 20,
+   "wrong_judged": 2,
+   "wrong_credited": 0
+  },
+  "FN-claude-1": {
+   "faulty": 30,
+   "named": 22,
+   "judged": 22,
+   "unjudged": 0,
+   "credited": 21,
+   "found": 22,
+   "found_judged": 22,
+   "found_credited": 21,
+   "wrong_judged": 0,
+   "wrong_credited": 0
+  },
+  "FN-gemini-1": {
+   "faulty": 30,
+   "named": 24,
+   "judged": 24,
+   "unjudged": 0,
+   "credited": 20,
+   "found": 23,
+   "found_judged": 23,
+   "found_credited": 20,
+   "wrong_judged": 1,
+   "wrong_credited": 0
+  },
+  "FN-grok-1": {
+   "faulty": 30,
+   "named": 7,
+   "judged": 7,
+   "unjudged": 0,
+   "credited": 7,
+   "found": 7,
+   "found_judged": 7,
+   "found_credited": 7,
+   "wrong_judged": 0,
+   "wrong_credited": 0
+  },
+  "FR-chatgpt-1": {
+   "faulty": 30,
+   "named": 28,
+   "judged": 28,
+   "unjudged": 0,
+   "credited": 26,
+   "found": 28,
+   "found_judged": 28,
+   "found_credited": 26,
+   "wrong_judged": 0,
+   "wrong_credited": 0
+  },
+  "FR-chatgpt-2": {
+   "faulty": 30,
+   "named": 26,
+   "judged": 26,
+   "unjudged": 0,
+   "credited": 25,
+   "found": 26,
+   "found_judged": 26,
+   "found_credited": 25,
+   "wrong_judged": 0,
+   "wrong_credited": 0
+  },
+  "FR-claude-1": {
+   "faulty": 30,
+   "named": 30,
+   "judged": 30,
+   "unjudged": 0,
+   "credited": 30,
+   "found": 30,
+   "found_judged": 30,
+   "found_credited": 30,
+   "wrong_judged": 0,
+   "wrong_credited": 0
+  },
+  "FR-claude-2": {
+   "faulty": 30,
+   "named": 30,
+   "judged": 30,
+   "unjudged": 0,
+   "credited": 30,
+   "found": 30,
+   "found_judged": 30,
+   "found_credited": 30,
+   "wrong_judged": 0,
+   "wrong_credited": 0
+  },
+  "FR-gemini-1": {
+   "faulty": 30,
+   "named": 30,
+   "judged": 30,
+   "unjudged": 0,
+   "credited": 30,
+   "found": 30,
+   "found_judged": 30,
+   "found_credited": 30,
+   "wrong_judged": 0,
+   "wrong_credited": 0
+  },
+  "FR-gemini-2": {
+   "faulty": 30,
+   "named": 30,
+   "judged": 30,
+   "unjudged": 0,
+   "credited": 30,
+   "found": 30,
+   "found_judged": 30,
+   "found_credited": 30,
+   "wrong_judged": 0,
+   "wrong_credited": 0
+  },
+  "FR-grok-1": {
+   "faulty": 30,
+   "named": 29,
+   "judged": 29,
+   "unjudged": 0,
+   "credited": 29,
+   "found": 29,
+   "found_judged": 29,
+   "found_credited": 29,
+   "wrong_judged": 0,
+   "wrong_credited": 0
+  },
+  "FR-grok-2": {
+   "faulty": 30,
+   "named": 30,
+   "judged": 30,
+   "unjudged": 0,
+   "credited": 28,
+   "found": 29,
+   "found_judged": 29,
+   "found_credited": 28,
+   "wrong_judged": 1,
+   "wrong_credited": 0
+  }
+ }
+}

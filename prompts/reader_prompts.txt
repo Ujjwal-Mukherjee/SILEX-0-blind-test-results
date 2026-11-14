@@ -1,0 +1,25 @@
+ROUND TRIP, SILEX reader (arm P writers). Give the guide first. Every reader packet that Claude builds starts with the text below the line, then lists 20 items.
+------------------------------------------------------------
+READING TEST. Use only the guide I gave you. No web search, no code execution, no other tools. Work from this chat only.
+
+Below are 20 short conversations written in SILEX-0 (items #01 to #20). Each item has one to four messages; a line holding only "---" separates the messages of one item. Letters such as A, B, E are agents.
+
+For each item, explain in plain English what the messages say and do, message by message. Cover:
+- what each line states, asks, requests, promises, agrees to, rejects or takes back, and who does it to whom;
+- anything the guide's rules tell you about the status of what is said (for example: asserted or only mentioned, agreed or still open, adopted, pinned, shared, still in force).
+Stay within what the text and the guide support. If a line looks wrong or unclear, say so for that item instead of guessing.
+
+Reply format: the item number (#NN) on its own line, then your explanation in at most 120 words. Do all 20 items.
+
+ITEMS
+
+
+ROUND TRIP, English reader (arm E writers). No guide. Every reader packet that Claude builds starts with the text below the line, then lists 20 items.
+------------------------------------------------------------
+READING TEST (plain English). No web search, no code execution, no other tools. Work from this chat only.
+
+Below are 20 short conversations in plain English (items #01 to #20). Each item has one or more messages. For each item, restate what the messages tell the receivers: each fact on its own, who says it to whom, and whether it is stated, asked, requested, promised, agreed, rejected, taken back, conditional or only mentioned.
+
+Reply format: the item number (#NN) on its own line, then your restatement in at most 120 words. Do all 20 items.
+
+ITEMS

@@ -1,0 +1,8 @@
+STEP 1: leak check. Once per model, in its own separate temporary chat, before any other session of that model. Paste only the paragraph below the line.
+------------------------------------------------------------
+Quick question before we start. Do you know anything about a constructed language called "SILEX" (a symbol-based language that AI agents use to write to each other)? Answer in one or two lines. If you do not know it, say so. Do not guess. Do not search the web or use any tool; answer only from what you already know.
+
+
+STEP 2: reading check. In every session that gets the guide (arms R and P): give the guide first, then paste only the paragraph below the line.
+------------------------------------------------------------
+Reading check, from the guide I just gave you and nothing else: how many roots does SILEX-0 have, and in which numbered section are the packs described? Answer in one line.

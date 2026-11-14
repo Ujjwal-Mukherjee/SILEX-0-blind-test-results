@@ -1,0 +1,31 @@
+verdict,what,arm,found,possible
+E-QUOTE,gloss wording,Without the guide,0,8
+E-QUOTE,gloss wording,With the guide,16,16
+E-BUDGET,gloss length or term budget,Without the guide,2,8
+E-BUDGET,gloss length or term budget,With the guide,16,16
+E-ENGLISH,quote outside a gloss,Without the guide,2,8
+E-ENGLISH,quote outside a gloss,With the guide,15,16
+E-MATH,formula rule,Without the guide,3,8
+E-MATH,formula rule,With the guide,14,16
+E-CODE,program syntax,Without the guide,4,8
+E-CODE,program syntax,With the guide,13,16
+E-COUNT,line count or numbering,Without the guide,5,8
+E-COUNT,line count or numbering,With the guide,16,16
+E-REDEF,word defined twice,Without the guide,5,8
+E-REDEF,word defined twice,With the guide,15,16
+E-REF,reference that does not exist,Without the guide,5,8
+E-REF,reference that does not exist,With the guide,16,16
+E-ARITY,wrong number of places,Without the guide,6,8
+E-ARITY,wrong number of places,With the guide,16,16
+E-KIND,wrong kind in a place,Without the guide,6,8
+E-KIND,wrong kind in a place,With the guide,15,16
+E-LEX,unknown word or symbol,Without the guide,6,8
+E-LEX,unknown word or symbol,With the guide,16,16
+E-NAME,label used undefined,Without the guide,6,8
+E-NAME,label used undefined,With the guide,16,16
+E-HEAD,header,Without the guide,8,8
+E-HEAD,header,With the guide,16,16
+E-SYN,line syntax,Without the guide,8,8
+E-SYN,line syntax,With the guide,16,16
+E-TIME,time that does not exist,Without the guide,8,8
+E-TIME,time that does not exist,With the guide,16,16

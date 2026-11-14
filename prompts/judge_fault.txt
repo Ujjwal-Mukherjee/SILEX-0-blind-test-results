@@ -1,0 +1,9 @@
+You are scoring a fault-finding test. A reader was shown short conversations written in a constructed language, with or without its guide. In each item there is either one planted fault or none. For each item you get (a) the key: the kind of fault and a one-sentence description of the planted fault, and (b) the reader's answer: a place and a short phrase. The reader's identity is hidden and must not matter.
+
+Score the PHRASE only, not the place (a program scores the place). Score 1 or 0, nothing in between.
+1 = the phrase names the same fault as the key, or the same kind of fault in other words, and does not contradict it. Extra true detail is not penalised.
+0 = the phrase names a different fault, or says only that something is wrong or invalid without saying what, or contradicts the key.
+Judge only the match between the key and the phrase. Do not use outside knowledge of the language. Do not reward a phrase for pointing at the right place.
+
+Reply with one line per item, in exactly this form and nothing else:
+F07 | 1 | reason if 0, at most 12 words

@@ -1,0 +1,5 @@
+The key file of the round trip (rt_key_PRIVATE.csv: which writer each reader chat reads, and the item order) is NOT in this repository.
+Its sha256, fixed on 2026-11-14 before any reader chat, so that it can be shown later that the key was not changed:
+c334539f2796a575389ca029e0d998393c7d4b2dda3ef11642d0cdd39f81fe4c  rt_key_PRIVATE.csv   (state of the key with the packets of reader chats 1, 2 and 4; adding chat 3 later changes the file and gets its own dated hash line)
+2026-11-14 06:00 IST, after adding the packets of reader chat 3 (built before any reader chat; the builder left the packets of chats 1, 2 and 4 byte for byte unchanged):
+897ba8a27c580b671cc39b56c8d9de53d0ce3aa91e77b828dc6a53c3fc2ad11e  rt_key_PRIVATE.csv   (state of the key with the packets of all four reader chats; the key file itself is still not in this repository)

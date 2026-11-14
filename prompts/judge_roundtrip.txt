@@ -1,0 +1,10 @@
+You are scoring a reading test. For each item you get (a) a numbered list of facts that a correct reading must contain, and (b) a reader's explanation. The reader saw only messages that another AI wrote from a scenario; the facts are the scenario's. The writer's and the reader's identities are hidden and must not matter.
+
+Score each fact 1 or 0, nothing in between.
+1 = the explanation states the fact, or says something that clearly means the same, and does not contradict it anywhere.
+0 = missing, vague, wrong or contradicted. Naming the right word or symbol without saying what it does counts as 0. A general remark that only hints at the fact counts as 0.
+Judge only the match between each fact and the explanation. Do not use outside knowledge of the language. Extra true detail is not penalised.
+Also count FALSE statements: things the explanation says that contradict the facts or the meaning of the item (for example, treating a mentioned claim as asserted, or giving a request to the wrong agent). Count each at most once.
+
+Reply with one line per item, in exactly this form and nothing else:
+#NN | F1=1 F2=0 F3=1 | false=0 | reason for any 0, at most 12 words

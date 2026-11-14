@@ -1,0 +1,6 @@
+model,set,runs,items_with_text,items,median_chars,median_gold_chars,median_ratio
+claude,,1+2+3,120,120,71.0,69.0,1.0
+chatgpt,high setting,4+5+6,120,120,72.0,69.0,1.0
+chatgpt,auto mode,1+2+3,115,120,76.0,69.0,1.033613
+grok,,1+2+3,120,120,73.5,69.0,1.0
+gemini,,1+2+3,120,120,71.5,69.0,1.0

@@ -1,0 +1,11 @@
+kind,code,count
+verdict,E-ARITY,3
+verdict,E-CODE,7
+verdict,E-KIND,12
+verdict,E-LEX,86
+verdict,E-MATH,1
+verdict,E-QUOTE,2
+verdict,E-REF,9
+verdict,E-SYN,1
+reason,NONE,5
+reason,verdict,75

@@ -1,0 +1,254 @@
+{
+ "per_run": {
+  "FN-chatgpt-1": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 2,
+   "lenient": 2,
+   "detected": 2,
+   "false_alarm": 0,
+   "unreadable": 0
+  },
+  "FN-claude-1": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 22,
+   "lenient": 22,
+   "detected": 22,
+   "false_alarm": 0,
+   "unreadable": 0
+  },
+  "FN-gemini-1": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 23,
+   "lenient": 23,
+   "detected": 24,
+   "false_alarm": 1,
+   "unreadable": 0
+  },
+  "FN-grok-1": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 7,
+   "lenient": 7,
+   "detected": 7,
+   "false_alarm": 0,
+   "unreadable": 0
+  },
+  "FR-chatgpt-1": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 2,
+   "lenient": 2,
+   "detected": 2,
+   "false_alarm": 0,
+   "unreadable": 0
+  },
+  "FR-chatgpt-2": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 2,
+   "lenient": 2,
+   "detected": 2,
+   "false_alarm": 0,
+   "unreadable": 0
+  },
+  "FR-claude-1": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 30,
+   "lenient": 30,
+   "detected": 30,
+   "false_alarm": 0,
+   "unreadable": 0
+  },
+  "FR-claude-2": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 30,
+   "lenient": 30,
+   "detected": 30,
+   "false_alarm": 0,
+   "unreadable": 0
+  },
+  "FR-gemini-1": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 30,
+   "lenient": 30,
+   "detected": 30,
+   "false_alarm": 0,
+   "unreadable": 0
+  },
+  "FR-gemini-2": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 30,
+   "lenient": 30,
+   "detected": 30,
+   "false_alarm": 0,
+   "unreadable": 0
+  },
+  "FR-grok-1": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 29,
+   "lenient": 29,
+   "detected": 29,
+   "false_alarm": 0,
+   "unreadable": 0
+  },
+  "FR-grok-2": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 29,
+   "lenient": 29,
+   "detected": 30,
+   "false_alarm": 0,
+   "unreadable": 0
+  }
+ },
+ "summary": {
+  "FN-chatgpt": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 2,
+   "lenient": 2,
+   "detected": 2,
+   "false_alarm": 0,
+   "unreadable": 0,
+   "runs": 1,
+   "wilson_found": [
+    0.01847663532769335,
+    0.21323817721072091
+   ]
+  },
+  "FN-claude": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 22,
+   "lenient": 22,
+   "detected": 22,
+   "false_alarm": 0,
+   "unreadable": 0,
+   "runs": 1,
+   "wilson_found": [
+    0.5555169795568831,
+    0.8581750444608938
+   ]
+  },
+  "FN-gemini": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 23,
+   "lenient": 23,
+   "detected": 24,
+   "false_alarm": 1,
+   "unreadable": 0,
+   "runs": 1,
+   "wilson_found": [
+    0.5907132766967574,
+    0.8820776078949878
+   ]
+  },
+  "FN-grok": {
+   "faulty": 30,
+   "clean": 10,
+   "found": 7,
+   "lenient": 7,
+   "detected": 7,
+   "false_alarm": 0,
+   "unreadable": 0,
+   "runs": 1,
+   "wilson_found": [
+    0.11792239210501232,
+    0.40928672330324267
+   ]
+  },
+  "FR-chatgpt": {
+   "faulty": 60,
+   "clean": 20,
+   "found": 4,
+   "lenient": 4,
+   "detected": 4,
+   "false_alarm": 0,
+   "unreadable": 0,
+   "runs": 2,
+   "wilson_found": [
+    0.02622827414319792,
+    0.15925579893767722
+   ]
+  },
+  "FR-claude": {
+   "faulty": 60,
+   "clean": 20,
+   "found": 60,
+   "lenient": 60,
+   "detected": 60,
+   "false_alarm": 0,
+   "unreadable": 0,
+   "runs": 2,
+   "wilson_found": [
+    0.9398260695220669,
+    0.9999999999999999
+   ]
+  },
+  "FR-gemini": {
+   "faulty": 60,
+   "clean": 20,
+   "found": 60,
+   "lenient": 60,
+   "detected": 60,
+   "false_alarm": 0,
+   "unreadable": 0,
+   "runs": 2,
+   "wilson_found": [
+    0.9398260695220669,
+    0.9999999999999999
+   ]
+  },
+  "FR-grok": {
+   "faulty": 60,
+   "clean": 20,
+   "found": 58,
+   "lenient": 58,
+   "detected": 59,
+   "false_alarm": 0,
+   "unreadable": 0,
+   "runs": 2,
+   "wilson_found": [
+    0.8863601247107462,
+    0.9908108735098498
+   ]
+  },
+  "FN-ALL": {
+   "faulty": 120,
+   "clean": 40,
+   "found": 54,
+   "lenient": 54,
+   "detected": 55,
+   "false_alarm": 1,
+   "unreadable": 0,
+   "wilson_found": [
+    0.3639158452162006,
+    0.5391861818893925
+   ]
+  },
+  "FR-ALL": {
+   "faulty": 240,
+   "clean": 80,
+   "found": 182,
+   "lenient": 182,
+   "detected": 183,
+   "false_alarm": 0,
+   "unreadable": 0,
+   "wilson_found": [
+    0.7003765676080788,
+    0.8081502793286209
+   ]
+  }
+ },
+ "random_baseline_found": 7.7218253968253965,
+ "faulty_items": 30
+}

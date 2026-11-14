@@ -1,0 +1,4 @@
+The key file of the English round trip (rt_key_E_PRIVATE.csv: which writer each reader chat reads, and the item order) is NOT in this repository.
+Its sha256, fixed on 2026-11-14 before any reader reply was received, so that it can be shown later that the key was not changed:
+4ef4e355cc29b4573d2b4e232d81a19d7a87b41fb74c65e3ce8bf8b9d539db14  rt_key_E_PRIVATE.csv   (state of the key with the packets of all four reader chats; the key file itself is not in this repository)
+The builder is tools/build_roundtrip_e.py (folder silex_blind_test_E_tools); it needs build_roundtrip_p.py (folder silex_blind_test_roundtrip_P) and check_p.py (folder silex_blind_test_P_tools).

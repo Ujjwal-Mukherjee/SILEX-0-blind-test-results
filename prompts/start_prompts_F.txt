@@ -1,0 +1,11 @@
+STEP 2 (guide chats only: arm FR): give the guide first, then paste only the paragraph below the line. It is the same check as in the reading test.
+------------------------------------------------------------
+Reading check, from the guide I just gave you and nothing else: how many roots does SILEX-0 have, and in which numbered section are the packs described? Answer in one line.
+
+Right answer: 104 roots, section 7. (A wrong answer: start a new chat once and give the guide the other way; do not use replies from that chat.)
+
+Every chat is a NEW temporary chat with memory off. Order inside a chat:
+  FR chat (with the guide): guide, STEP 2, then FR_batch1.txt, copy the reply, then FR_batch2.txt, copy the reply.
+  FN chat (no guide): FN_batch1.txt, copy the reply, then FN_batch2.txt, copy the reply. Do not give the guide and do not give STEP 2.
+Send me each reply with a label that has the arm, the model, the run and the batch, for example:  FR claude run 1 batch 1   or   FN grok run 1 batch 2.
+Use the Copy icon for ChatGPT, Grok and Gemini replies, as before. Do not tell the model anything beyond the packets.
